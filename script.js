@@ -1,0 +1,2 @@
+
+let batiment = new Batiment()
